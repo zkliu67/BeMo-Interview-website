@@ -1,0 +1,22 @@
+.wrapper {
+  width: 100%;
+}
+.section {
+  width: 100%;
+  position: relative;
+  padding: 3.5%;
+}
+
+img.featureImg {
+  width: 100vw;
+  height: auto;
+}
+
+.container a {
+  color: #ff6600
+}
+
+u {
+  text-decoration: underline;
+}
+

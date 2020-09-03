@@ -1,0 +1,79 @@
+.content__form {
+  background-color: #eeeeee;
+  padding: 20px;
+}
+
+form {
+  width: 100%;
+  
+}
+
+form p {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 20px 0px;
+}
+
+.text__input {
+  width: 95%;
+  padding: 10px 10px;
+  font-size: 18px;
+  border: none;
+  border-radius: 5px;
+}
+
+.paragraph__input {
+  width: 95%;
+  padding: 10px 10px;
+  font-size: 18px;
+  border: none;
+  border-radius: 5px;
+  
+}
+
+.text__style {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  margin-top: 10px;
+}
+
+.text__style select {
+  padding: 7px;
+}
+
+.text__style span {
+  margin-right: 10px;
+  cursor: pointer;
+}
+.span__clicked {
+  background-color: darkcyan;
+  color: white;
+}
+.text__style span .MuiSvgIcon-root {
+  border: 1px solid #777777;
+  border-radius: 3px;
+  padding: 3px;
+}
+
+.button__submit {
+  margin-top: 10px;
+  padding: 5px 15px;
+  border: none;
+  background-color: darkgreen;
+  color: white;
+  border-radius: 5px;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.button__submit :hover {
+  background-color: white;
+  color: darkgreen;
+  border: 1px darkgreen solid;
+}
+
+hr {
+  margin-top: 20px;
+  background-color: white;
+}

@@ -1,0 +1,10 @@
+.sidebar {
+  flex: 0.4;
+  max-width: 260px;
+}
+
+.sidebar__header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}

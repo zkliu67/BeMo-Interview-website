@@ -1,0 +1,33 @@
+footer {
+  display: flex;
+  flex-direction: row;
+  background-color: #000066;
+  padding: 2% 5% 2% 5%;
+}
+
+#footer {
+  flex: 0.8;
+  font-size: 13px;
+  color: #ffffff;
+}
+
+#footer a {
+  text-decoration: underline;
+  color: #ff6600;
+}
+
+#socialIcons {
+  display: flex;
+  flex: 0.2;
+  float: right;
+  text-align: center;
+}
+
+a.social {
+  font-family: 'Socialico';
+  font-size: 28px;
+  margin: 0px 10px;
+  position: relative;
+  float: right;
+  transition: all 450ms;
+}
